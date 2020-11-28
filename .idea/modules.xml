@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/distance_closure_java.iml" filepath="$PROJECT_DIR$/.idea/distance_closure_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/djisktras/djisktras.iml" filepath="$PROJECT_DIR$/djisktras/djisktras.iml" />
+    </modules>
+  </component>
+</project>
